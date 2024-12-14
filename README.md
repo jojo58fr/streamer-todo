@@ -8,6 +8,12 @@
 No other softwares and plugins are needed. Just Streamelements.
 Feel free to contribute to this projects, its one of free widget that i just [release here](https://github.com/jojo58fr/free-streamelements-widgets). It's a fork from a gist with lots of improvements and changing to use it with streamelements. 
 
+### Documentation
+
+It's the same base as [jujoco/twitch-multitask-task-list-overlay](https://github.com/jujoco/twitch-multitask-task-list-overlay) so you can follow his documentation to know more about how it works.
+
+[click here to follow his documentation](https://github.com/jujoco/twitch-multitask-task-list-overlay)
+
 ### Copyright
 
 Copyright (c) 2024 Joachim Miens (contact@joachim-miens.com)
